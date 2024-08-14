@@ -1,0 +1,47 @@
+header {background-color: #ff7e5f;}
+
+.background-test {
+	background-image:url('paper.jpg');
+/*	 background-color: solid springgreen;*/
+	 background-repeat: no-repeat;
+}
+.border-test {border: 5px thick;
+	color: blue;
+	border-radius: 15px;
+	border-style: dashed;
+}
+.box-model-text {
+	padding: 20px;
+	margin: 30px;
+	height: 200px;
+	width: 400px;
+	margin: auto;
+}
+.text-test {
+font-family: Arial,sans-serif;
+font-size: 18px;}
+.icon-test i {text-decoration: underline;
+	      fa-solid fa-van-shuttle;
+       color: green;
+       size: 10px 15px 20px 25px;
+}
+.link-test a hover {
+	text-decoration-line: none;
+  color: blue;
+  text-decoration-line: underline;
+  color: red;
+
+}
+
+.list-test ul li {
+  list-style-type: square;
+  padding: 10px;
+}
+
+ table, th, td{
+	border: 2px solid;
+	border-collapse: collapse;
+	background-color: hotpink;
+	text-align: center;
+}
+
